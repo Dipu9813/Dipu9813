@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NodeJS<br>💬 Ask me about python, c, c++, JS<br>⚡ Fun fact<br> I love sleeping
+🌱 I’m currently learning NodeJS<br>💬 Ask me about python, c, c++, JS<br>⚡ Fun fact<br> I love doing nothing
 
 
 ## 🌐 Socials:
